@@ -1,4 +1,9 @@
 Voici un test pour voir si j'ai bien retenu toutes les commandes pour 
 enregistrer un fichier, l'add, le commit, et l'envoyer en ligne
+<<<<<<< HEAD
 Merci de votre patience
 Je vous aimes
+=======
+Merci de votre patience bande de con
+
+>>>>>>> 9af0b3fffbe792ec29077c636f56d9df2459d3e9
